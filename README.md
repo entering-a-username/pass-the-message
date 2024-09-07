@@ -1,3 +1,1 @@
-https://jsbeginners.com/pass-the-message-project/
-
-this is the project im trying to recreate
+a simple project that mainly focuses on DOM manipulation (hence me not using localstorage)
